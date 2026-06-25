@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Guzmán 👋
 
-<!--
-**guzmanfajo/guzmanfajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer in training, passionate about technology and continuous learning.
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Git & GitHub
+
+## 📂 Featured Projects
+
+### 🌐 My Portfolio
+Personal portfolio showcasing my projects, skills, and journey as a web developer.
+
+### 🏛️ Historic Architecture
+A web project dedicated to exploring and presenting historic architecture through a modern and responsive interface.
+
+### ✅ Habits
+A habit-tracking application designed to help users build consistency and monitor their progress.
+
+### 🛒 Store
+An e-commerce web application focused on delivering a clean user experience and modern design.
+
+## 🛠️ Technologies
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📈 Goals
+
+- Continue improving my frontend development skills.
+- Build increasingly complex and polished projects.
+- Learn modern web development best practices.
+
+## 📫 Contact
+
+- GitHub: https://github.com/guzmanfajo
+
+---
+
+*"Always learning, always building."*
