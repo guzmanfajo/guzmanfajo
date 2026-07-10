@@ -20,10 +20,7 @@ Personal portfolio showcasing my projects, skills, and journey as a web develope
 ### 🏛️ Historic Architecture
 A web project dedicated to exploring and presenting historic architecture through a modern and responsive interface.
 
-### ✅ Habits
-A habit-tracking application designed to help users build consistency and monitor their progress.
-
-### 🛒 Store
+### 🛒 Second Hand
 An e-commerce web application focused on delivering a clean user experience and modern design.
 
 ## 📈 Goals
