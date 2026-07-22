@@ -25,7 +25,6 @@ I enjoy transforming ideas into clean interfaces while continuously improving my
 
 Personal portfolio showcasing my projects, skills, and experience as a frontend developer.
 
-**Live site:** https://guzmanfajo.vercel.app
 **Live site:** [guzmanfajo.vercel.app](https://guzmanfajo.vercel.app)
 
 ---
