@@ -46,6 +46,9 @@ An e-commerce web application focused on delivering a clean user experience with
 **Live site:** https://second-hand-umber.vercel.app  
 **Repository:** https://github.com/guzmanfajo/second-hand
 
+[**Live site:**](https://second-hand-umber.vercel.app)  
+[**Repository:**](https://github.com/guzmanfajo/second-hand)
+
 ---
 
 ## 📈 Goals
