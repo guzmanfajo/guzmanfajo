@@ -26,6 +26,7 @@ I enjoy transforming ideas into clean interfaces while continuously improving my
 Personal portfolio showcasing my projects, skills, and experience as a frontend developer.
 
 **Live site:** https://guzmanfajo.vercel.app
+**Repository:** https://github.com/guzmanfajo/my-portfolio
 
 ---
 
@@ -34,6 +35,7 @@ Personal portfolio showcasing my projects, skills, and experience as a frontend 
 A photography gallery dedicated to exploring historic architecture through a modern and responsive web experience.
 
 **Live site:** https://historic-architecture.vercel.app
+**Repository:** https://github.com/guzmanfajo/historic-architecture
 
 ---
 
@@ -42,6 +44,7 @@ A photography gallery dedicated to exploring historic architecture through a mod
 An e-commerce web application focused on delivering a clean user experience with modern design and responsive interfaces.
 
 **Live site:** https://second-hand-umber.vercel.app
+**Repository:** https://github.com/guzmanfajo/second-hand
 
 ---
 
