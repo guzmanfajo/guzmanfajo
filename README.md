@@ -43,11 +43,9 @@ A photography gallery dedicated to exploring historic architecture through a mod
 
 An e-commerce web application focused on delivering a clean user experience with modern design and responsive interfaces.
 
-**Live site:** https://second-hand-umber.vercel.app  
-**Repository:** https://github.com/guzmanfajo/second-hand
+[**Live site**](https://second-hand-umber.vercel.app)  
 
-[**Live site:**](https://second-hand-umber.vercel.app)  
-[**Repository:**](https://github.com/guzmanfajo/second-hand)
+[**Repository**](https://github.com/guzmanfajo/second-hand)
 
 ---
 
