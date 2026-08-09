@@ -30,19 +30,19 @@ Personal portfolio showcasing my projects, skills, and experience as a frontend 
 
 ---
 
-### 🏛️ Historic Architecture
-
-A photography gallery dedicated to exploring historic architecture through a modern and responsive web experience.
-
-**Live site:** https://historic-architecture.vercel.app
-
----
-
 ### 🛒 Second Hand
 
 An e-commerce web application focused on delivering a clean user experience with modern design and responsive interfaces.
 
 **Live site:** https://second-hand-umber.vercel.app
+
+---
+
+### 🏛️ Historic Architecture
+
+A photography gallery dedicated to exploring historic architecture through a modern and responsive web experience.
+
+**Live site:** https://historic-architecture.vercel.app
 
 ---
 
